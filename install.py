@@ -1,6 +1,6 @@
-# Tool Name :- Tool-X
-# Author :- Rajkumar dusad
-# Date :- 1/11/2017
+# Tool Name :- OMER LINUX
+# Author :- OMER ABO AKER 🤍 🇵🇸 
+# Date :- 11/15/2024
 
 import os
 import sys
